@@ -1,4 +1,4 @@
-# Building the Web of Things - Code
+# Building the Web of Things - Code (local fork)
 This repository contains all the Node.js and JavaScript code examples from the [Building the Web of Things](http://book.webofthings.io) book.
 
 # Downloading the code examples
